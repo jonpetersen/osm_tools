@@ -1,0 +1,8 @@
+http://toolserver.org/~kolossos/osm/osmhack.php?lat=1.32&lon=103.8&name=Singapore
+http://toolserver.org/~kolossos/qtm2/featurelist.php?key=railway&value=subway&types=lines&BBOX=103.6,1.22,104,1.42
+http://toolserver.org/~kolossos/qtm2/featurelist.php?key=highway&value=bus_stop&types=points&BBOX=103.6,1.22,104,1.42
+
+www.overpass-api.de/api/xapi?node[bbox=103.6,1.22,104,1.42][highway=bus_stop]
+
+http://toolserver.org/~kolossos/qtm2/queryinmap.php?BBOX=103.77884,1.425576,103.813022,1.445203&name=*&key=highway&value=bus_stop&types=points-infos
+http://toolserver.org/~kolossos/qtm2/osm-to-kml.php?BBOX=103.554404,1.172988,104.101317,1.487043&name=%25&key=highway&value=bus_stop&types=points-infos
